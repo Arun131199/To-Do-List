@@ -1,0 +1,47 @@
+
+.main-container {
+    position: absolute;
+    width: auto;
+    height: auto;
+    padding: 30px;
+    margin: 40px;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, rgb(150, 173, 232) 0%, rgb(77, 131, 230) 50%, rgb(23, 63, 241)100%);
+    border: 1px solid blue;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    left: 35%;
+}
+
+#input {
+    padding: 10px;
+    border-radius: 5px;
+    border: transparent;
+}
+
+.main-container button {
+    font-weight: bold;
+    height: 35px;
+    width: 70px;
+    padding: 10px;
+    margin: 7px;
+    border-radius: 5px;
+    border: transparent;
+}
+
+#list-container li {
+    font-weight: 500px;
+    font-size: large;
+    list-style: none;
+    text-align: center;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.list {
+    padding: 20px;
+    margin: 20px;
+}
